@@ -2,12 +2,12 @@
 > just for reference,
 > thanks to the author!
 *******************
-
-# pkgs
-
-## install openmpi
-
+# openmpi_packages
+install
 ```
-#edit path in install.sh
-bash install.sh
+bash ./install.sh
+```
+when you want to run ,do this
+```
+source ./env.sh
 ```
